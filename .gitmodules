@@ -10,3 +10,6 @@
 [submodule "dep/mongo-c-driver"]
 	path = dep/mongo-c-driver
 	url = git@github.com:mongodb/mongo-c-driver.git
+[submodule "dep/protobuf"]
+	path = dep/protobuf
+	url = git@github.com:google/protobuf.git
