@@ -4,3 +4,9 @@
 [submodule "dep/tinynet"]
 	path = dep/tinynet
 	url = git@github.com:yuyunliuhen/tinynet.git
+[submodule "dep/hiredis"]
+	path = dep/hiredis
+	url = git@github.com:redis/hiredis.git
+[submodule "dep/mongo-c-driver"]
+	path = dep/mongo-c-driver
+	url = git@github.com:mongodb/mongo-c-driver.git
