@@ -1,3 +1,6 @@
 [submodule "dep/easy"]
 	path = dep/easy
 	url = git@github.com:yuyunliuhen/easy.git
+[submodule "dep/tinynet"]
+	path = dep/tinynet
+	url = git@github.com:yuyunliuhen/tinynet.git
