@@ -13,3 +13,12 @@
 [submodule "dep/protobuf"]
 	path = dep/protobuf
 	url = git@github.com:google/protobuf.git
+[submodule "dep/jansson"]
+	path = dep/jansson
+	url = git@github.com:akheron/jansson.git
+[submodule "dep/boost"]
+	path = dep/boost
+	url = git@github.com:boostorg/boost.git
+[submodule "dep/mongo-cxx-driver"]
+	path = dep/mongo-cxx-driver
+	url = git@github.com:mongodb/mongo-cxx-driver.git

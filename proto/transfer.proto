@@ -1,0 +1,6 @@
+package transfer;
+
+message Packet {
+  required int32 msg_id = 1;
+  required string content = 2;   
+}
